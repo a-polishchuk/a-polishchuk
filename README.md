@@ -1,0 +1,6 @@
+- 👋 Hi, my name is Andrii
+- 🇺🇦 I'm a Software Engineer from Kyiv, Ukraine
+- 👀 I’m interested in all kinds of Web Development
+- 📫 You can email me at polishchuk91@gmail.com
+- 👽 I’m currently working on my Udemy courses
+  - [Mastering React](https://www.udemy.com/course/opanovuemo-react/?referralCode=C0563B0126CAF7329C80) - 🇺🇦 Ultimate React+Typescript course, live demo [here](https://a-polishchuk.github.io/mastering-react/)
