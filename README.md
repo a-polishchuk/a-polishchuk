@@ -11,8 +11,5 @@
   - emojis 😆😆😆
 - 📫 You can email me at polishchuk91@gmail.com
 
-### I'm teaching people on Udemy:
+### I'm teaching people on Udemy
   - [Mastering React](https://www.udemy.com/course/opanovuemo-react/?referralCode=C0563B0126CAF7329C80) - 🇺🇦 Ultimate React+Typescript course, live demo [here](https://a-polishchuk.github.io/mastering-react/)
-
-### My GitHub Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=a-polishchuk&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
