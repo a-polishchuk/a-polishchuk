@@ -1,8 +1,7 @@
-## 👋 Hi, my name is Andrii
-### Few things about me
-- 👨🏼‍💻 I'm a Software Engineer from 🇺🇦 Kyiv, Ukraine.
+### 👋 Hi, my name is Andrii
+- 👨🏼‍💻 I'm a Software Engineer from 🇺🇦 Kyiv, Ukraine
 - 🥷 I worked with numerous different tech stacks
-- 🌐 I’m interested in all kinds of Web Development.
+- 🌐 I’m interested in all kinds of Web Development
 - 😍 I love 
   - clean code & clean architecture
   - functional programming
