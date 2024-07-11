@@ -1,5 +1,5 @@
 ### 👋 Hi, my name is Andrii
-- 👨🏼‍💻 I'm a Software Engineer from 🇺🇦 Kyiv, Ukraine
+- 👨🏼‍💻 I'm a Software Engineer
 - 🥷 I worked with numerous different tech stacks
 - 🌐 I’m interested in all kinds of Web Development
 - 😍 I love 
