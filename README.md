@@ -1,13 +1,19 @@
-### 👋 Hey, welcome to my GitHub profile
+### Hey, welcome to my GitHub profile!
 
-- 👨🏼‍💻 I'm an experienced Software Engineer
-- 🥷 I worked with numerous different tech stacks
-- ⛓️ I am passionate about blockchain technology and aspire to contribute to the Web3 ecosystem
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity logo" width="16" height="16"> I'm learning smart contracts in Solidity
-- 🎓 I teach people on Udemy
-  - [Mastering React](https://www.udemy.com/course/opanovuemo-react/?referralCode=C0563B0126CAF7329C80) - Ultimate React+Typescript course, live demo [here](https://a-polishchuk.github.io/mastering-react/)
-- 📧 You can contact me via
-  - 👔 [www.linkedin.com/in/andrii-v-polishchuk](https://www.linkedin.com/in/andrii-v-polishchuk)
-  - 📧 [polishchuk91@gmail.com](mailto:polishchuk91@gmail.com)
+Here is what you need to know about me
+- senior full-stack engineer (front end heavy)
+- 10+ years of experience
+- worked with various tech stacks
+- constantly learning new stuff
+- designed and recorded [Udemy course](https://www.udemy.com/course/opanovuemo-react/?referralCode=C0563B0126CAF7329C80) that teach people "Thinking in React"
+- last few years I'm mostly working with
+  - React
+  - Typescript
+  - Next.js
+  - Vite
+  - Node.js
+  - AWS
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-polishchuk&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ovi" />
+You can reach me via
+  - linkedIn [www.linkedin.com/in/andrii-v-polishchuk](https://www.linkedin.com/in/andrii-v-polishchuk)
+  - email [polishchuk91@gmail.com](mailto:polishchuk91@gmail.com)
