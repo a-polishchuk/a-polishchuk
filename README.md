@@ -4,8 +4,9 @@ Here is what you need to know about me
 - senior full-stack engineer (front end heavy)
 - 10+ years of experience
 - worked with various tech stacks
+- tend to use simple and straightforward solutions
 - constantly learning new stuff
-- designed and recorded [Udemy course](https://www.udemy.com/course/opanovuemo-react/?referralCode=C0563B0126CAF7329C80) that teach people "Thinking in React"
+- designed and recorded [Udemy course](https://www.udemy.com/course/opanovuemo-react/?referralCode=C0563B0126CAF7329C80) that teaches people "Thinking in React"
 - last few years I'm mostly working with
   - React
   - Typescript
