@@ -1,7 +1,7 @@
 ### Hey, welcome to my GitHub profile!
 
 Here is what you need to know about me:
-- 10+ years of experience
+- 10+ years of web dev experience
 - worked with various tech stacks
 - tend to use simple and straightforward solutions
 - proactive, suggesting improvements and alternative solutions
